@@ -1,6 +1,6 @@
-# N2 Fixation
+# N<sub>2</sub> Fixation Calculations
 
-<img align="right" src='https://github.com/LinusP217/N2_Fixation/blob/main/N2_frontier.png' width = "300" height = "414">
+<img align="right" src='https://github.com/LinusP217/N2_Fixation/blob/main/N2_frontier.png' width = "150" height = "207">
 
 Computational Supporting Information for the publication 'INSERT NAME.'
 
