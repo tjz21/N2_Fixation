@@ -1,0 +1,402 @@
+Created using ESIgen v0.0.5
+===========================
+
+ESIgen is scientific software, funded by public research grants
+and published as:
+
+    J Rodriguez-Guerra, P Gomez-Orellana, JD Marechal.
+    J. Chem. Inf. Model., 2018, 58 (3), pp 561–564.
+    DOI: 10.1021/acs.jcim.7b00714.
+
+If you make use of ESIgen in scientific publications, please cite
+us in the main text! References only mentioned in SI documents
+are not indexed by citation engines.
+
+***
+
+
+# N2_1minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk UB3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -1            |
+| Multiplicity                                     |             2             |
+| Stoichiometry                                    |           N2(-1)          |
+| Number of Basis Functions                        |             38            |
+| Electronic Energy (Eh)                           |       -109.566945478      |
+| Sum of electronic and zero-point Energies (Eh)   |        -109.562642        |
+| Sum of electronic and thermal Energies (Eh)      |        -109.560281        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -109.559337        |
+| Sum of electronic and thermal Free Energies (Eh) |        -109.581885        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |            7.5            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+N          -0.000000       -0.000000        0.594697
+N           0.000000        0.000000       -0.594697
+```
+
+__Frequencies__ (Top 10 out of 1)
+
+```
+  1.    1888.8153 cm-1 (Symmetry: SGG) 
+```
+***
+# N2_2minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk UB3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -2            |
+| Multiplicity                                     |             3             |
+| Stoichiometry                                    |           N2(-2)          |
+| Number of Basis Functions                        |             38            |
+| Electronic Energy (Eh)                           |       -109.536263372      |
+| Sum of electronic and zero-point Energies (Eh)   |        -109.533215        |
+| Sum of electronic and thermal Energies (Eh)      |        -109.530845        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -109.529901        |
+| Sum of electronic and thermal Free Energies (Eh) |        -109.552988        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             8             |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+N           0.000000        0.000000        0.642552
+N           0.000000        0.000000       -0.642552
+```
+
+__Frequencies__ (Top 10 out of 1)
+
+```
+  1.    1338.1185 cm-1 (Symmetry: SGG) 
+```
+***
+# N2_3minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk UB3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -3            |
+| Multiplicity                                     |             2             |
+| Stoichiometry                                    |           N2(-3)          |
+| Number of Basis Functions                        |             38            |
+| Electronic Energy (Eh)                           |       -109.44191524       |
+| Sum of electronic and zero-point Energies (Eh)   |        -109.439692        |
+| Sum of electronic and thermal Energies (Eh)      |        -109.437291        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -109.436347        |
+| Sum of electronic and thermal Free Energies (Eh) |        -109.459206        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |            8.5            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+N           0.000000       -0.000000        0.683514
+N           0.000000        0.000000       -0.683514
+```
+
+__Frequencies__ (Top 10 out of 1)
+
+```
+  1.     975.7287 cm-1 (Symmetry: SGG) 
+```
+***
+# N2_4minus
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RB3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             -4            |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |           N2(-4)          |
+| Number of Basis Functions                        |             38            |
+| Electronic Energy (Eh)                           |    -109.33104900600001    |
+| Sum of electronic and zero-point Energies (Eh)   |        -109.330225        |
+| Sum of electronic and thermal Energies (Eh)      |        -109.327516        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -109.326572        |
+| Sum of electronic and thermal Free Energies (Eh) |         -109.34957        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             9             |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+N          -0.000000       -0.000000        0.806815
+N           0.000000        0.000000       -0.806815
+```
+
+__Frequencies__ (Top 10 out of 1)
+
+```
+  1.     361.6530 cm-1 (Symmetry: SGG) 
+```
+***
+# N2_neutral
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`P Geom=AllCheck Guess=TCheck SCRF=Check GenChk RB3LYP/6-31+G(d) Freq`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             0             |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |             N2            |
+| Number of Basis Functions                        |             38            |
+| Electronic Energy (Eh)                           |       -109.530119796      |
+| Sum of electronic and zero-point Energies (Eh)   |        -109.524525        |
+| Sum of electronic and thermal Energies (Eh)      |        -109.522165        |
+| Sum of electronic and enthalpy Energies (Eh)     |        -109.521221        |
+| Sum of electronic and thermal Free Energies (Eh) |        -109.542974        |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |             7             |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+N          -0.000000        0.000000        0.552468
+N           0.000000       -0.000000       -0.552468
+```
+
+__Frequencies__ (Top 10 out of 1)
+
+```
+  1.    2455.6770 cm-1 (Symmetry: SGG) 
+```
+***
+# tada_N2
+
+
+__Requested operations__
+
+Run with Gaussian 16revisionA.03.
+
+`p B3LYP/Gen scf(conver=8,tight) gfinput Int(Grid=Ultrafine) freq(SaveNM,HPmodes,Raman) Pseudo=Read Symmetry=None pop=(full,NPA) EmpiricalDispersion=GD3 scrf=(solvent=TetraHydroFuran)`
+
+__Relevant magnitudes__
+
+
+| Datum                                            | Value                     |
+|:-------------------------------------------------|--------------------------:|
+| Charge                                           |             0             |
+| Multiplicity                                     |             1             |
+| Stoichiometry                                    |      C38H89K2N9Si4Ti2     |
+| Number of Basis Functions                        |            1144           |
+| Electronic Energy (Eh)                           |       -3325.44203674      |
+| Sum of electronic and zero-point Energies (Eh)   |        -3324.186757       |
+| Sum of electronic and thermal Energies (Eh)      |        -3324.110877       |
+| Sum of electronic and enthalpy Energies (Eh)     |        -3324.109933       |
+| Sum of electronic and thermal Free Energies (Eh) |        -3324.290357       |
+| Number of Imaginary Frequencies                  |             0             |
+| Mean of alpha and beta Electrons                 |            239            |
+
+__Molecular Geometry in Cartesian Coordinates__
+
+```xyz
+Ti         12.852440       10.460100       24.652680
+Ti         16.945580        7.883940       24.217490
+Si         12.471590       12.489740       27.287840
+Si          9.938610        9.156930       23.553310
+Si         19.602810        8.053030       26.370670
+Si         17.923390        7.463100       20.918050
+N          14.192140        9.305230       24.675870
+N          15.289010        8.672210       24.496610
+N          18.034790        8.671250       25.802490
+N          12.929400       12.241490       25.595600
+N          13.754490       11.648510       22.982890
+N          17.357110       10.892040       23.830010
+N          11.472430        9.970530       23.197620
+N          16.783510        6.131510       24.444390
+N          17.964310        8.320690       22.460320
+C          15.194350       11.381010       22.699320
+H          15.469320       11.928000       21.783910
+H          15.288760       10.310790       22.509970
+C          18.147480       11.079660       25.042450
+H          19.206330       10.949340       24.807220
+H          18.033000       12.113480       25.428200
+C          16.154800       11.712800       23.845300
+H          15.640090       11.498440       24.784430
+C          12.970090       11.267680       21.766240
+H          13.436030       10.367710       21.354330
+H          13.048490       12.059340       21.004440
+C          17.758680       10.072500       26.141210
+H          18.260490       10.399980       27.068550
+C          18.127180       10.836180       22.598570
+H          17.451570       10.924360       21.743540
+H          18.860890       11.669440       22.522940
+C          16.340070        4.795040       24.717360
+C          11.513900       10.948710       22.110240
+H          10.990110       11.888960       22.362300
+H          11.035760       10.585470       21.182680
+C          18.858070        9.487390       22.474720
+H          19.480030        9.559270       21.567520
+H          19.573760        9.405030       23.307230
+C           8.460930       10.392560       23.901230
+H          13.328340       11.768980       30.167950
+C          19.612480        7.562850       28.283490
+C          10.250490        8.110270       25.130580
+H          10.437920        8.753290       26.000400
+H           9.384430        7.480050       25.362190
+H          11.122480        7.457770       25.006380
+C          20.126170        6.509180       25.371240
+H          19.247050        5.891840       25.162340
+C           8.952570       11.521800       24.824310
+H           9.800210       12.065840       24.392390
+H           8.144820       12.246200       25.013780
+H           9.276730       11.135930       25.798890
+C           9.397120        7.987290       22.126050
+H          10.047170        7.105240       22.073780
+H           8.368250        7.635670       22.272720
+H           9.440320        8.499120       21.157190
+C          19.532930        6.403730       20.527590
+C          18.798970        6.275670       28.501260
+H          19.223730        5.429120       27.949010
+H          18.785670        6.001240       29.569010
+H          17.758250        6.382200       28.176420
+C          17.713780        8.703880       19.449700
+H          18.601300        9.329870       19.297870
+H          17.515840        8.168360       18.512720
+H          16.863840        9.368810       19.649580
+C          19.628200        5.231770       21.519110
+H          18.762740        4.563280       21.447620
+H          20.529620        4.629290       21.316560
+H          19.688810        5.585610       22.553440
+C           7.301000        9.643840       24.587920
+H           7.596900        9.236860       25.562810
+H           6.455460       10.328190       24.760670
+H           6.926620        8.812690       23.975640
+C          19.011330        8.686680       29.147430
+H          17.965710        8.888770       28.886230
+H          19.036510        8.409030       30.214140
+C          17.090780        3.768490       23.826840
+H          16.895640        3.968000       22.768240
+H          18.171140        3.852860       23.988590
+H          16.782950        2.735070       24.045970
+C           7.944590       10.997490       22.579710
+H           7.576070       10.223810       21.894280
+H           7.107810       11.685610       22.778820
+H           8.718350       11.569390       22.054560
+C          16.607470        4.406000       26.193480
+H          16.305320        3.369840       26.406230
+H          17.671410        4.511530       26.423560
+H          16.050650        5.062040       26.874310
+C          19.463660        5.847970       19.091970
+H          19.448600        6.649030       18.342080
+H          20.344580        5.219300       18.882420
+H          18.575000        5.222910       18.933080
+C          20.801690        7.266440       20.666330
+H          20.920080        7.645370       21.688210
+H          21.697270        6.668940       20.428700
+H          20.793500        8.127670       19.985030
+K          15.340500        7.982300       27.196270
+K          13.453180        7.538510       22.575190
+C          11.122450       13.844120       27.456550
+C          13.982420       12.961460       28.437600
+C          21.004890        9.367950       26.164640
+C          13.579420       13.325080       24.861840
+C          13.472160       13.072400       23.349640
+H          16.402730       12.794350       23.837860
+C          21.058560        7.306080       28.753820
+H          20.880880        5.919930       25.906860
+H          20.550550        6.816550       24.407980
+H          19.565580        9.628200       29.041390
+H          10.201950       13.514520       26.960230
+H          10.892950       14.051710       28.509100
+H          11.442250       14.783030       26.989320
+C          14.412620       14.421530       28.189570
+C          13.592040       12.804960       29.920360
+H          21.114480        9.634320       25.107000
+H          20.802810       10.287730       26.727120
+H          21.964210        8.963360       26.508960
+H          13.106150       14.305340       25.049760
+H          14.635850       13.445920       25.145440
+H          12.439700       13.276180       23.053690
+H          14.126810       13.744620       22.773550
+H          21.558420        6.536770       28.151040
+H          21.670590        8.214870       28.711960
+H          21.064120        6.956430       29.799180
+H          14.728850       14.588980       27.153620
+H          13.602180       15.127500       28.411210
+H          15.263720       14.682770       28.838340
+H          14.434310       13.093220       30.569150
+H          12.739660       13.442190       30.190650
+C          15.157910       12.022480       28.116380
+H          16.036490       12.266430       28.733730
+H          14.897860       10.974760       28.317700
+H          15.454560       12.091390       27.064980
+C          11.748210       10.817940       27.897180
+H          10.928190       10.482210       27.252170
+H          12.515120       10.033640       27.907930
+H          11.349580       10.912810       28.913400
+C          14.819050        4.626360       24.452750
+H          14.598840        4.840170       23.399370
+H          14.472540        3.604380       24.666920
+H          14.243670        5.319470       25.079920
+C          16.412850        6.281610       20.871130
+H          16.592300        5.399790       20.245040
+H          16.206130        5.952590       21.895090
+H          15.537320        6.804230       20.463040
+H          16.681830       10.209840       26.318710
+```
+
+__Frequencies__ (Top 10 out of 426)
+
+```
+  1.      28.6272 cm-1 (Symmetry: A) 
+  2.      30.9605 cm-1 (Symmetry: A) 
+  3.      36.4291 cm-1 (Symmetry: A) 
+  4.      38.2796 cm-1 (Symmetry: A) 
+  5.      42.3033 cm-1 (Symmetry: A) 
+  6.      47.2522 cm-1 (Symmetry: A) 
+  7.      53.6093 cm-1 (Symmetry: A) 
+  8.      55.8661 cm-1 (Symmetry: A) 
+  9.      61.3161 cm-1 (Symmetry: A) 
+ 10.      63.2339 cm-1 (Symmetry: A) 
+```
+***
