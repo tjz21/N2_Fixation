@@ -2,7 +2,7 @@
 
 <img align="right" src='https://github.com/LinusP217/N2_Fixation/blob/main/N2_frontier.png' width = "150" height = "207">
 
-Computational Supporting Information for the publication 'INSERT NAME.' DFT:B3LYP calculations with the below basis set combination were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package. Calculation summaries were produced using ESIgen.<sup>2</sup>
+Computational Supporting Information for the publication 'Cooperative N<sub>2</sub> Reduction Across a Multinuclear First-Row Transition Metal Platform.' DFT:B3LYP calculations with the below basis set combination were carried out in the Gaussian 16 Rev A.03<sup>1</sup> software package. Calculation summaries were produced using ESIgen.<sup>2</sup>
 
 <div align="center">
 
@@ -10,7 +10,7 @@ Computational Supporting Information for the publication 'INSERT NAME.' DFT:B3LY
 |:-------------------:|:---------------:|
 | Ti, K               | LANL2DZ         |
 | C, N, H             | 6-31+G\*        |
-| P                   | 6-31G           |
+| Si                  | 6-31G\*         |
 
 </div>
 
@@ -24,7 +24,8 @@ Computational Supporting Information for the publication 'INSERT NAME.' DFT:B3LY
 │   │   ├── N2_3minus.com
 │   │   ├── N2_4minus.com
 │   │   ├── N2_neutral.com
-│   │   └── tada_N2.com
+│   │   ├── tada_N2_amido.com
+│   │   └── tada_N2_imido.com
 │   │
 │   └── optimized_outputs # converged structures
 │       ├── N2_1minus.xyz
@@ -32,10 +33,10 @@ Computational Supporting Information for the publication 'INSERT NAME.' DFT:B3LY
 │       ├── N2_3minus.xyz
 │       ├── N2_4minus.xyz
 │       ├── N2_neutral.xyz
-│       ├── tada_N2.xyz
+│       ├── tada_N2_amido.xyz
+│       ├── tada_N2_imido.xyz
 │       └── calc_summaries.txt # tables of energies, freqs, etc.
 │                              for the studied structures ^^
-
 
 3 directories, 13 files
 ```        

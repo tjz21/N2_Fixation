@@ -1,5 +1,5 @@
 %NProcShared=20
-%chk=tada_N2.chk
+%chk=tada_N2_imido.chk
 %mem=5GB
 #p B3LYP/Gen scf(conver=8,tight) gfinput Int(Grid=Ultrafine) opt(CalcFC,maxcycle=150) freq(SaveNM,HPmodes,Raman) Pseudo=Read Symmetry=None pop=(full,NBO) EmpiricalDispersion=GD3 scrf=(solvent=TetraHydroFuran)
 
